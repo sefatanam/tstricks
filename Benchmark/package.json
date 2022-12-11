@@ -1,0 +1,18 @@
+{
+  "name": "benchmark",
+  "version": "1.0.0",
+  "description": "Benchmark function performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "benchmark",
+    "typescript"
+  ],
+  "author": "Sefsat Anam",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
