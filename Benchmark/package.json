@@ -4,7 +4,7 @@
   "description": "Benchmark function performance",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "benchmark": "node index.js"
   },
   "keywords": [
     "benchmark",
